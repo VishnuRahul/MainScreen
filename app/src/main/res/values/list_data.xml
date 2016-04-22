@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Action">
+        <item>Open Navigation Drawer</item>
+        <item>Use Floating Action Button</item>
+        <item>View Images</item>
+    </string-array>
+</resources>
